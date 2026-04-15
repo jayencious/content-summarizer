@@ -49,3 +49,9 @@ This repository houses a simple yet functional content summarizer built with Pyt
 ## Contributing:
 
 Contributions are welcome! Feel free to submit pull requests with improvements, bug fixes, or new features.
+
+## Developers:
+- [Joel Robert Lakra](https://github.com.jayencious)
+- [Sparsh Mishra](https://github.com/maj0rkeen)
+- [Trisha Raj](https://github.com/trisharaj11)
+- [Debangshu Roy](https://github.com/)
